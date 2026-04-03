@@ -15,9 +15,7 @@ Adrija Chatterjee: adrijac23@iitk.ac.in/ chatadrija@gmail.com or
 Prof. Dr. Pragathi P. Balasubramani: pbalasub@iitk.ac.in
 
 Model and validation folder: 
-This file contains the codes for: 
-1) Optimisation of the model for selection of the model with the best features using a method called Recursive Feature Elimination (RFE) 
-2) classifying Mild Cognitive impaired population compared to healthy from 1) Behavioural 2)Neural 3) Gastric features and validating them through K-fold and 80-20(train-test) split- taking inputs from the RFE analysis.
+This file contains the codes for: Optimisation of the model for selection of the model with the best features using a method called Recursive Feature Elimination (RFE) and classifying Mild Cognitive impaired population compared to healthy from 1) Behavioural 2)Neural 3) Gastric features and validating them through K-fold and 80-20(train-test) split- taking inputs from the RFE analysis.
 For any query, please contact: 
 Adrija Chatterjee: adrijac23@iitk.ac.in/ chatadrija@gmail.com or 
 Shreelekha BS, Shreelekha.bs@students.iiserpune.ac.in or
