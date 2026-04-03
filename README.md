@@ -1,4 +1,5 @@
-# MSR-thesis-codes-
+# MSR Thesis- Spatial memory, Resource allocation, MCI
+
 Understanding the effects of cognitive overload on spatial navigation and neural resource allocation in Mild cognitively impaired cohort.
 
 1) EEG (Electroencephalography) folder: 
