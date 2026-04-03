@@ -1,4 +1,4 @@
-# MSR Thesis- Spatial memory, Resource allocation, MCI
+# MSR Thesis- Spatial memory, Resource allocation, Prediction Modelling in MCI
 
 Understanding the effects of cognitive overload on spatial navigation and neural resource allocation in Mild cognitively impaired cohort.
 
